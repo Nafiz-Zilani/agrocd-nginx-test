@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nafizzilani/k8s-ngins:v1.0
+        image: nafizzilani/k8s-ngins:v1.1
         ports:
         - containerPort: 80
